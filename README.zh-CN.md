@@ -15,11 +15,12 @@
 * MtpNet是一个高效的多任务网络模型，用于解决自动驾驶中的交通目标检测、可驾驶区域分割和车道线检测三个重要任务。
 * MtpNet在所有三项任务中无论是在准确性还是速度方面都达到了先进的水平。
 
+### Web 模型演示
+- Gradio web 演示 [Huggingface Spaces 🤗](https://huggingface.co/spaces/erlinersi/mtpnet)。 模型demo演示。
+
+
 ### 结果
 我们使用BDD100K作为数据集，并在 **NVIDIA 3090** 上进行实验。
-
-### Web 演示
-- Gradio web 演示 [Huggingface Spaces 🤗](https://huggingface.co/spaces/erlinersi/mtpnet).
 
 ### 可视化
 Model : 在BDD100k数据集上进行训练，并使用 [bilibili: Cam 看世界](https://www.bilibili.com/video/BV1Yb411G7Qo/?share_source=copy_web&vd_source=3237a8995e264302de28705882c9edaf) 的视频进行检测。
