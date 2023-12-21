@@ -138,7 +138,7 @@ Model : 在BDD100k数据集上进行训练，并使用 [bilibili: Cam 看世界]
 
 
 ### 模型
-你可以点击<a href="https://huggingface.co/spaces/erlinersi/mtpnet/resolve/main/weights/End-to-end.pth?download=true">这里</a>获取模型。
+你可以点击<a href="https://huggingface.co/spaces/erlinersi/mtpnet/resolve/main/weights/mtpnet.onnx?download=true">这里</a>获取模型。
 
 
 ### Demo Test
