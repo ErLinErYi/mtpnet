@@ -137,7 +137,7 @@ Model : trained on the BDD100k dataset and test on the [bilibili: Cam 看世界]
 
 
 ### Models
-You can get the model from <a href="https://github.com/">here</a>.
+You can get the model from <a href="https://huggingface.co/spaces/erlinersi/mtpnet/resolve/main/weights/End-to-end.pth?download=true">here</a>.
 
 
 ### Demo Test
