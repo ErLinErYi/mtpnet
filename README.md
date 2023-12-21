@@ -15,12 +15,12 @@
 * MtpNet is an efficient multitasking network used to solve three important tasks in autonomous driving: traffic object detection, drivable area segmentation, and lane detection. 
 * In all three tasks, both accuracy and speed have reached advanced levels.
 
-### Results
-We used the BDD100K as our datasets,and experiments are run on **NVIDIA 3090**.
-
 
 ### Web Demo
 - Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces/erlinersi/mtpnet) using Gradio. Try out the Web Demo !
+
+### Results
+We used the BDD100K as our datasets,and experiments are run on **NVIDIA 3090**.
 
 ### Visualization
 Model : trained on the BDD100k dataset and test on the [bilibili: Cam 看世界](https://www.bilibili.com/video/BV1Yb411G7Qo/?share_source=copy_web&vd_source=3237a8995e264302de28705882c9edaf) video.
